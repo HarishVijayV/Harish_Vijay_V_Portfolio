@@ -1,0 +1,39 @@
+{
+  "name": "harish-vijay-portfolio",
+  "version": "1.0.0",
+  "description": "Modern portfolio website for Harish Vijay V - AI/ML Researcher and Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server .",
+    "build": "echo 'No build step needed for static site'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "ai",
+    "ml",
+    "research",
+    "developer",
+    "website",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "author": {
+    "name": "Harish Vijay V",
+    "email": "harishvijay0204@gmail.com",
+    "url": "https://www.linkedin.com/in/harish-vijay-9132a126a/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/portfolio/issues"
+  },
+  "homepage": "https://your-portfolio-url.vercel.app",
+  "devDependencies": {},
+  "dependencies": {}
+}
