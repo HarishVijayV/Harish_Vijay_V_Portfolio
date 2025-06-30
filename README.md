@@ -4,7 +4,7 @@ A modern, elegant portfolio website showcasing AI/ML research, projects, and ach
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://your-portfolio-url.vercel.app)
+[View Portfolio](https://harish-vijay-v-portfolio.vercel.app/)
 
 ## ✨ Features
 
